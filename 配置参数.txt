@@ -1,0 +1,37 @@
+{
+    copyright: 1 //是否原创
+    cover: "" //封面
+    desc: "" //视频简介
+    desc_format_id: 32 //不清楚
+    dynamic: "" //粉丝动态
+    interactive: 0 // 是否为合作视频
+    mission_id: 16177 //不清楚
+    is_360: 1 //是否全景 1，-1
+    no_reprint: 1 //自制声明
+    dtime: 0 //何时发布时间戳
+    porder: { 
+        flow_id: 1, //是否有广告
+        industry_id: 1, 
+        official: 0, 
+        brand_name: "", 
+        show_type: ""
+        }
+    subtitle: {
+        open: 0,//是否开启字幕投稿
+        lan: "zh-CN"//语言
+    }
+    source: "" //转载网址
+    tag: "" //标签
+    tid: 65 //分类id
+    title: "测试视频" //视频标题
+    up_close_danmu: false //是否关闭弹幕
+    up_close_reply: false //是否关闭评论
+    videos: [
+        {
+            filename: "m210209a22hmyawvqtjssg3k9tkjijta", //视频资源id
+            title: "1", 
+            desc: "", 
+            cid: 0
+        }
+    ]
+}
