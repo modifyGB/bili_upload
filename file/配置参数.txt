@@ -1,0 +1,20 @@
+{
+    "desc": "", // 视频简介
+    "tag": "", // 视频标签，用逗号分隔
+    "tid": 0, // 视频分类序号
+    "title": "", // 视频标题    
+    "video_path": "", // 视频资源路径
+    "cover_path": "", // 封面图片路径
+    "cookie": "", // cookie
+
+    //下列为非必要参数
+    "copyright": 0 // 是否原创
+    "dynamic": "" // 粉丝动态
+    "no_reprint": 0 // 自制声明
+    "subtitle": {
+        "open": 0 // 是否开启字幕投稿
+        "lan": "" // 字幕语言
+    }
+    "up_close_danmu": false // 是否关闭弹幕
+    "up_close_reply": false // 是否关闭评论
+}

@@ -1,0 +1,37 @@
+{
+    copyright: 1 //是否原创（必需）
+    cover: "" //封面网址（必需）
+    desc: "" //视频简介（必需）
+    desc_format_id: 32 //不清楚
+    dynamic: "" //粉丝动态（必需）
+    interactive: 0 // 是否为合作视频？
+    mission_id: 16177 //不清楚
+    is_360: 1 //是否全景   1，-1
+    no_reprint: 1 //自制声明（必需）
+    dtime: 0 //何时发布的时间戳
+    porder: { 
+        flow_id: 1, //是否有广告
+        industry_id: 1, 
+        official: 0, 
+        brand_name: "", 
+        show_type: ""
+        }
+    subtitle: {（必需）
+        open: 0,//是否开启字幕投稿（必需）
+        lan: "zh-CN"//语言（必需）
+    }
+    source: "" //转载网址，若不是原创才需要
+    tag: "tag1,tag2" //标签，用逗号分隔（必需）
+    tid: 65 //分类id（必需）
+    title: "测试视频" //视频标题（必需）
+    up_close_danmu: false //是否关闭弹幕（必需）
+    up_close_reply: false //是否关闭评论（必需）
+    videos: [（必需）
+        {
+            filename: "", //视频资源id（必需）
+            title: "", //分p名称（必需）
+            desc: "", //分p简介？（必需）
+            cid: 0（必需）
+        }
+    ]
+}

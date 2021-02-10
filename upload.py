@@ -15,7 +15,7 @@ url6 = 'https://member.bilibili.com/x/vu/web/add?csrf={}'
 
 class upload:
     header = {
-        'cookie': '_uuid=E16B98A5-129B-597F-3EA1-BD9F8B7B8A4D78231infoc; buvid3=AC87E54B-69AE-443A-8A7C-392F1F445C2B143111infoc; PVID=1; fingerprint=96566aab8c2242a44432fb4649ee2b46; buvid_fp=AC87E54B-69AE-443A-8A7C-392F1F445C2B143111infoc; buvid_fp_plain=84C6F96D-781D-4389-937D-7A67E790AF75138364infoc; SESSDATA=87069954%2C1628405129%2C7c426%2A21; bili_jct=5b0136a8eb212146dea32d9bd0de05e2; DedeUserID=14717577; DedeUserID__ckMd5=cfacec20f66b46f7; sid=6g53w736; finger=158939783',
+        'cookie': '',
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36',
     }
 
